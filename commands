@@ -5,3 +5,8 @@ xdotool sleep 0.1 type --clearmodifiers "@"
 xdotool sleep 0.1 type --clearmodifiers "{"
 
 xdotool sleep 0.1 type --clearmodifiers "}"
+
+xdotool sleep 0.1 type --clearmodifiers "["
+
+xdotool sleep 0.1 type --clearmodifiers "]"
+
